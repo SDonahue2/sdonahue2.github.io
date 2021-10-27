@@ -22,6 +22,7 @@
                 <!-- The second child of the table element should be the colgroup element, which also contains several col elements, and helps define the purpose of the table colums. -->
                 <colgroup>
 					<col title="&nbsp;">
+					<col title="&nbsp;">
 					<col title="Name">
 					<col title="Mass (10<sup>24</sup>kg)">
 					<col title="Diameter (km)">
@@ -37,6 +38,7 @@
                 <!-- The table head element should be the third child of the table element; it will wrap the code and content to define a row of column headers. -->    
                 <thead>
 					<tr>
+					<th>&nbsp;</th>
 					<th>&nbsp;</th>
 					<th>Name</th>
 					<th>Mass (10<sup>24</sup>kg)</th>
@@ -54,7 +56,7 @@
                 <!-- The fourth child of the table element should be the table body element, which will contain the code and content to display rows of data. -->
                 <tbody>
 					<tr>
-						<th rowspan="4"> Terrestial planets</th>
+						<th rowspan="4" colspan="2"> Terrestial planets</th>
 						<th>Mercury</th>
 						<td>0.330 </td>
 						<td>4,879 </td>
@@ -107,8 +109,8 @@
 						<td></td>
 					</tr>
 					<tr>
-						<th rowspan="4" colspan=".5">Jovian planets</th>
-						<th rowspan="2" colspan=".5">Gas giants</th>
+						<th rowspan="4">Jovian planets</th>
+						<th rowspan="2">Gas giants</th>
 						<th>Jupiter</th>
 						<td>1898</td>
 						<td>142,984</td>
@@ -135,7 +137,7 @@
 						<td></td>
 					</tr>
 					<tr>
-						<th rowspan="2" colspan=".5">Ice giants</th>
+						<th rowspan="2">Ice giants</th>
 						<th>Uranus</th>
 						<td>86.8</td>
 						<td>51,118</td>
