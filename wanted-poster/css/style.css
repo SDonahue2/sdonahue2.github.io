@@ -99,6 +99,7 @@ h4 {
     text-align:center;
 	padding-bottom:1.125rem;
 	font-weight:normal;
+
 }
 
 h5 {
@@ -115,7 +116,9 @@ h5 {
 	background-color:#333;
 	margin: .25rem auto auto auto;
 } 
-
+span {
+	padding:0 .5rem 0 .5rem;
+}
 
 /* Section & Paragraph */
 
@@ -133,13 +136,25 @@ p {
 
 /* Image & Figure */
 
-img {}
+img {
+	width:100%;
+	margin: 0 auto;
+	max-width:50rem;
+}
 
-figure {}
+figure {
+	margin: auto auto 2rem auto;
+	}
 
-figcaption {}
+figcaption {
+	padding-top:.5rem;
+	text-align:right;
+}
 
 
 /* Footer */
 
-footer {}
+footer {
+	padding:1rem;
+	border-top: 2rem solid #333;
+}
