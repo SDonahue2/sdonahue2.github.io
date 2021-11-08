@@ -139,11 +139,11 @@ p {
 img {
 	width: 100%;
 	margin: 0 auto 0 auto;
-	max-width: 50rem;
+	max-width: 5rem;
 }
 
 figure {
-	margin: 2rem;
+	margin: auto auto 2rem auto;
 	}
 
 figcaption {
