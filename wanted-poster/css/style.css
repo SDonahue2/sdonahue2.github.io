@@ -137,12 +137,12 @@ p {
 /* Image & Figure */
 
 img {
+	width: 100%;
 	margin: 0 auto 0 auto;
-	max-width: 50rem;
 }
 
 figure {
-	width: 100%;
+	max-width: 50rem;
 	margin: auto auto 2rem auto;
 	}
 
