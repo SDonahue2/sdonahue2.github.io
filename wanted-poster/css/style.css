@@ -137,9 +137,8 @@ p {
 /* Image & Figure */
 
 img {
-	border-image-width: 100%;
 	margin: 0 auto 0 auto;
-	max-width: 50rem;
+	max-width: 100% 50rem;
 }
 
 figure {
