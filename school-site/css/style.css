@@ -85,24 +85,55 @@ header, footer {
 	font-weight: normal;
 	font-style: normal;
 }
-@font-face{}
+@font-face{
+	font-family: 'Josefinslab';
+	src: url('fonts/josefinslab-regular.ttf') format(truetype);
+	font-weight: normal;
+	font-style: normal;
+}
 
 
 /* Typography Styles */
 
-html {}
+html {
+	font-family: Montserrat, Arial, sans-serif;
+}
 
-h1 {}
+h1 {
+	letter-spacing: .125rem;
+	font-family: josefinslab-regular, Arial, serif;
+	font-size: 3.75rem;
+}
 
-h2 {}
+h2 {
+	letter-spacing: .125rem;
+	font-family: josefinslab-regular, Arial, serif;
+	font-size: 1.5rem;
+}
 
-h2 + p {}
+h2 + p {
+	font-size: 1.3rem;
+	letter-spacing: .03125rem;
+	word-spacing: .125rem;
+	text-indent: 1.5rem;
+}
 
-p {}
+p {
+	font-size: 1.3rem;
+	letter-spacing: .03125rem;
+	word-spacing: .125rem;
+}
 
-li {}
+li {
+	font-size: 1.3rem;
+	letter-spacing: .03125rem;
+	word-spacing: .125rem;
+}
 
-figcaption {}
+figcaption {
+	font-size: .75rem;
+	margin-bottom:2rem
+}
 
 
 /* Link Styling */
