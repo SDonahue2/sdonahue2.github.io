@@ -103,6 +103,7 @@ h1 {
 	letter-spacing: .125rem;
 	font-family: Josefinslab, serif;
 	font-size: 3.75rem;
+	text-align: center;
 }
 
 h2 {
@@ -142,16 +143,12 @@ a {
 	outline: none;
 }
 
-a:link {
-	color: #33658A;
-}
+a:link ,
 a:visited {
 	color: #33658A;
 }
 
-a:focus{
-	border-bottom: 1px solid;
-}
+a:focus,
 a:hover {
 	border-bottom: 1px solid;
 }
@@ -193,14 +190,22 @@ nav a {
 }
 
 nav a:focus,
-nav a:hover {}
+nav a:hover {
+	color: #FFF;
+	background-color: #33658A;
+}
 
-nav a:active {}
+nav a:active {
+	color: #FFF;
+	background-color: #000;
+}
 
 
 /* Footer Styles */
 
-footer {}
+footer {
+	text-align: center;
+}
 
 
 
