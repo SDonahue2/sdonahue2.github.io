@@ -43,7 +43,7 @@ figcaption {
     margin:.375rem 0;
 }
 
-.long-list {
+long-list {
     margin-top:0;
 }
 
@@ -150,7 +150,7 @@ a:visited {
 
 a:focus,
 a:hover {
-	border-bottom: 1px solid;
+	border-bottom: none;
 }
 
 
@@ -166,7 +166,7 @@ ol {
 	list-style-type: lower-alpha;
 }
 
-.long-list a:hover {
+long-list a:hover {
 	transform: (list-style-type: upper-alpha);
 }
 
@@ -179,7 +179,7 @@ nav {
 }
 
 nav a {
-	border-bottom: 1px solid;
+	border-bottom: none;
 	display: inline-block;
 	width: 100%;
 	line-height:3;
