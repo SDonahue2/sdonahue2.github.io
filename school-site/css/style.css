@@ -150,10 +150,10 @@ a:visited {
 }
 
 a:focus{
-	border-bottom: none;
+	border-bottom: 1px solid;
 }
 a:hover {
-	border-bottom: none;
+	border-bottom: 1px solid;
 }
 
 
