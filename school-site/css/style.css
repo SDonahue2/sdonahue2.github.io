@@ -176,9 +176,21 @@ ol {
 
 /* Navigation Menu */
 
-nav {}
+nav {
+	padding-left: 0;
+	margin-top: .25rem;
+}
 
-nav a {}
+nav a {
+	border-bottom: 1px solid;
+	display: inline-block;
+	width: 100%;
+	line-height:3;
+	text-align: center;
+	font-size: 1.125rem;
+	margin-bottom: 1.5rem;
+	border: solid, .0625rem, #33658A;
+}
 
 nav a:focus,
 nav a:hover {}
