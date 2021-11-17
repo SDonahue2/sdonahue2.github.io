@@ -167,7 +167,7 @@ ol {
 }
 
 long-list a:hover {
-	transform: (list-style-type: upper-alpha);
+	transform: (upper-alpha);
 }
 
 
