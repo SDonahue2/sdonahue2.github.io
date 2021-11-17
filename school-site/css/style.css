@@ -179,7 +179,7 @@ nav {
 }
 
 nav a {
-	border-box: solid, .0625rem, #33658A;
+	border: solid, .0625rem, #33658A;
 	text-decoration: none;
 	display: inline-block;
 	width: 100%;
