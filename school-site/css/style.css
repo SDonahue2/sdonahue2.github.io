@@ -178,7 +178,7 @@ nav {
 	margin-top: .25rem;
 }
 
-nav a:link{
+nav a {
 	border: solid, .0625rem, #33658A;
 	text-decoration: none;
 	display: inline-block;
