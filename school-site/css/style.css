@@ -176,10 +176,10 @@ ol {
 nav {
 	padding-left: 0;
 	margin-top: .25rem;
+	border: solid, .0625rem, #33658A;
 }
 
 nav a {
-	border: solid, .0625rem, #33658A;
 	text-decoration: none;
 	display: inline-block;
 	width: 100%;
