@@ -176,6 +176,7 @@ long-list a:hover {
 nav {
 	padding-left: 0;
 	margin-top: .25rem;
+	border: solid, .0625rem, #33658A;
 }
 
 nav a:link{
