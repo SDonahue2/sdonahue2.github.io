@@ -167,7 +167,7 @@ ol {
 }
 
 long-list a:hover {
-	transform: (upper-alpha);
+	transform: upper-alpha;
 }
 
 
@@ -179,7 +179,7 @@ nav {
 }
 
 nav a:link{
-	border: solid, .0625rem, #33658A;
+	outline: solid, .0625rem, #33658A;
 	text-decoration: none;
 	display: inline-block;
 	width: 100%;
