@@ -104,6 +104,7 @@ h1 {
 	font-family: Josefinslab, serif;
 	font-size: 3.75rem;
 	text-align: center;
+	margin: 1.125rem;
 }
 
 h2 {
@@ -113,27 +114,27 @@ h2 {
 }
 
 h2 + p {
-	font-size: 1.3rem;
+	font-size: .75rem;
 	letter-spacing: .03125rem;
 	word-spacing: .125rem;
 	text-indent: 1.5rem;
 }
 
 p {
-	font-size: 1.3rem;
+	font-size: .75rem;
 	letter-spacing: .03125rem;
 	word-spacing: .125rem;
 }
 
 li {
-	font-size: 1.3rem;
+	font-size: .75rem;
 	letter-spacing: .03125rem;
 	word-spacing: .125rem;
 }
 
 figcaption {
 	font-size: .75rem;
-	margin-bottom:2rem
+	margin-bottom: 2rem
 }
 
 
