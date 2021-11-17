@@ -178,8 +178,8 @@ nav {
 	margin-top: .25rem;
 }
 
-nav a {
-	outline: solid, .0625rem, #33658A;
+nav a:link{
+	border: solid, .0625rem, #33658A;
 	text-decoration: none;
 	display: inline-block;
 	width: 100%;
