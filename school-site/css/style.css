@@ -176,11 +176,11 @@ long-list a:hover {
 nav {
 	padding-left: 0;
 	margin-top: .25rem;
-	border: solid, .0625rem, #33658A;
 }
 
 nav a {
-	border-bottom: none;
+	border: solid, .0625rem, #33658A;
+	text-decoration: none;
 	display: inline-block;
 	width: 100%;
 	line-height:3;
@@ -189,7 +189,10 @@ nav a {
 	margin-bottom: 1.5rem;
 }
 
-nav a:focus,
+nav a:focus {
+	color: #FFF;
+	background-color: #33658A;
+}
 nav a:hover {
 	color: #FFF;
 	background-color: #33658A;
