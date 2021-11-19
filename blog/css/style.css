@@ -110,7 +110,7 @@ h1 {
 
 .subsection {
 	display: grid;
-	grid: repeat(2,auto) / auto-flow;
+	grid: repeat(3,auto) / auto-flow;
 }
 
 .copyright {
