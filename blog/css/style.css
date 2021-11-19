@@ -91,6 +91,10 @@ h2 {
 	font-family: Roboto, sans serif;
 }
 
+h2 + p {
+	flex: right; 
+}
+
 h3 {
 	font-family: Josefinslab, serif;
 	font-size: .98rem;
