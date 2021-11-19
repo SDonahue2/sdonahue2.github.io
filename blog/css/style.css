@@ -105,6 +105,14 @@ h1 {
 	display: grid;
 }
 
+.copyright {
+	text-align: left;
+}
+
+.attribution {
+	text-align: right;
+}
+
 main {
 	flex: auto;
 }
