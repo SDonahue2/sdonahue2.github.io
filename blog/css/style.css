@@ -47,6 +47,18 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+@font-face{
+	font-family: Roboto;
+	src: url(../fonts//sans-serif/roboto-regular.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: Josefinslab;
+	src: url(../fonts/serif/josefinslab-regular.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
 
 .expand a {
 	text-decoration: none;
@@ -61,20 +73,24 @@ h1 {
 	font-size:3.75rem;
 	letter-spacing: .25rem;
 	margin: 1.5rem;
+	font-family: Stencil, sans serif;
+	
 }
 
 .Highlight {
-	
+	text-shadow:
 }
 
 h2 {
 	letter-spacing:1.125rem;
 	font-size: 1.5rem;
 	margin: .05rem;
+	font-family: Roboto, sans serif;
 }
 
 nav {
 	border-top: solid .05rem black;
 	border-bottom: solid .05rem black;
-	margin: 1rem;
+	padding-top: 2rem;
+	padding-bottom:2rem;
 }
