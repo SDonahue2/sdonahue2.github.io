@@ -48,6 +48,6 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
-.expand {
+.expand a:hover {
 	text-decoration: none;
 }
