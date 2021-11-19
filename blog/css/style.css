@@ -102,6 +102,10 @@ h1 {
 	margin-bottom: .0625rem;
 }
 
+.subsection {
+	grid-auto-columns: auto;
+}
+
 main {
 	flex: auto;
 }
