@@ -91,15 +91,14 @@ h1 {
 }
 
 .highlight {
-	border-radius: 25% 10%, dark red;
+	border-radius: 25% 10%, red;
 	color: white;
-	background-color: dark red;
+	background-color: red;
 }
 
 .article-image {
 	float: left;
-	margin-right: .0625rem;
-	margin-bottom: .0625rem;
+	margin:.15rem;
 }
 
 .subsection {
