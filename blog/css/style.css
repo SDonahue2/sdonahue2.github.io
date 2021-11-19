@@ -91,18 +91,18 @@ h1 {
 }
 
 .highlight {
-	border-radius: 25% 10%, red;
+	border-radius: 45% 30%, red;
 	color: white;
 	background-color: red;
 }
 
 .article-image {
 	float: left;
-	margin:.15rem;
+	margin: .15rem .15rem;
 }
 
 .subsection {
-	grid-auto-columns: auto;
+	display: grid;
 }
 
 main {
