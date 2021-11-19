@@ -91,9 +91,8 @@ h1 {
 }
 
 .highlight {
-	border-radius: 45% 30%, red;
-	color: white;
-	background-color: red;
+	border-radius: 45% 30%,
+	border-radius-color: red;
 }
 
 .article-image {
@@ -106,19 +105,11 @@ h1 {
 }
 
 .copyright {
-	text-align: left;
+	float: left;
 }
 
 .attribution {
 	text-align: right;
-}
-
-main {
-	flex: auto;
-}
-
-aside {
-	flex: initial;
 }
 
 h2 {
