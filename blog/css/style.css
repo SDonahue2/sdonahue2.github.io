@@ -91,13 +91,15 @@ h1 {
 }
 
 .highlight {
-	border-radius: 25% / 50%, purple;
+	border-radius: 25% 10%, dark red;
 	color: white;
-	background-color: purple;
+	background-color: dark red;
 }
 
 .article-image {
 	float: left;
+	margin-right: .0625rem;
+	margin-bottom: .0625rem;
 }
 
 main {
@@ -114,10 +116,6 @@ h2 {
 	margin: .75rem;
 	font-family: Roboto, sans serif;
 	padding-top:3rem
-}
-
-h2 + p {
-	flex: right; 
 }
 
 h3 {
