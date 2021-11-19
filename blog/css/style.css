@@ -78,7 +78,9 @@ h1 {
 }
 
 .Highlight {
-	text-shadow:
+	text-shadow: 2rem 2rem 2rem black, 0 0 1em blue, 0 0 0 .2em blue;
+	color: white;
+	font: 3.75rem, Stencil, sans serif;
 }
 
 h2 {
@@ -86,6 +88,13 @@ h2 {
 	font-size: 1.5rem;
 	margin: .05rem;
 	font-family: Roboto, sans serif;
+}
+
+h3 {
+	font-family: Josefinslab, serif;
+	font-size: .98rem;
+	margin:.05rem;
+	letter-spacing: .8rem;
 }
 
 nav {
