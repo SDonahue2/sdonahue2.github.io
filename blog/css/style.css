@@ -90,9 +90,15 @@ h1 {
 	
 }
 
+.blog {
+	transform: rotate(-2.5deg);
+	text-decoration: solid underline #33658A .25rem;
+}
+
 .highlight {
-	border-radius: 45% 30%,
-	border-radius-color: red;
+	border-radius: 1rem;
+	background-color: #33658A;
+	color: white;
 }
 
 .article-image {
