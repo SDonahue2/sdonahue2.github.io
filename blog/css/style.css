@@ -48,12 +48,12 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
-.expand a:hover {
+.expand a {
 	text-decoration: none;
 }
 
 html {
-	font-family: Stencil, sans serif;
+	font-family: Georgia, sans serif;
 }
 
 h1 {
@@ -61,6 +61,10 @@ h1 {
 	font-size:3.75rem;
 	letter-spacing: .25rem;
 	margin: 1.5rem;
+}
+
+.Highlight {
+	
 }
 
 h2 {
