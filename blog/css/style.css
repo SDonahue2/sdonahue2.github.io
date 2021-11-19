@@ -92,7 +92,7 @@ h1 {
 
 .blog {
 	transform: rotate(-2.5deg);
-	text-decoration: solid underline #33658A .25rem;
+	text-decoration: solid line-through #33658A .15rem;
 }
 
 .highlight {
@@ -129,6 +129,10 @@ h2 {
 	padding-top:3rem
 }
 
+main {
+	border-right: 80% .05rem black;
+}
+
 h3 {
 	font-family: Josefinslab, serif;
 	font-size: 1.25rem;
@@ -149,11 +153,6 @@ nav a {
 	color: dark blue;
 	padding-left: 1rem;
 	padding-right: 1rem;
-}
-
-nav a:link ,
-nav a:visited {
-	color: dark red; 
 }
 
 nav a:focus,
