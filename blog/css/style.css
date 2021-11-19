@@ -91,9 +91,26 @@ h1 {
 }
 
 .highlight {
-	border-radius: 10% / 50%, purple;
+	border-radius: 25% / 50%, purple;
 	color: white;
 	background-color: purple;
+}
+
+.article-image {
+	float: left;
+}
+
+#main {
+	display: flex;
+	flex-direction: row;
+}
+
+#main > section {
+	flex: auto;
+}
+
+#main > aside {
+	flex: 10rem;
 }
 
 h2 {
