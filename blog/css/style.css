@@ -104,10 +104,13 @@ h1 {
 .article-image {
 	float: left;
 	margin: .15rem .15rem;
+	padding-right: .25rem;
+	padding-bottom: .25rem;
 }
 
 .subsection {
 	display: grid;
+	grid: repeat(2,auto) / auto-flow;
 }
 
 .copyright {
