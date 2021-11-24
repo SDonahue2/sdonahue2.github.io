@@ -91,7 +91,6 @@ h1 {
 }
 
 .blog {
-	transform: rotate(-5deg);
 	text-decoration: solid line-through #33658A .15rem;
 }
 
@@ -167,6 +166,10 @@ nav a {
 	color: dark blue;
 	padding-left: 1rem;
 	padding-right: 1rem;
+}
+
+nav a: nth-child(2)  {
+	transform: rotate(-5deg);
 }
 
 nav a:focus,
