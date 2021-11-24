@@ -123,6 +123,7 @@ h1 {
 .main-section {
 	display: flex;
 	flex: 2;
+	border-right: 80% black;
 }
 
 figure {
