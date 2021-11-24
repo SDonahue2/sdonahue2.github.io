@@ -121,17 +121,12 @@ h1 {
 	text-align: right;
 }
 
-.flex-container {
-	display: flex;
-}
-
 .aside {
 	flex: 1;
-	
 }
 
 .main-section {
-	flex: 2;
+	display: flex;
 }
 
 h2 {
