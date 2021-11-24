@@ -121,8 +121,16 @@ h1 {
 	text-align: right;
 }
 
+.flex-container {
+	display: flex;
+}
+
 .aside {
-	flex: 2;
+	flex: auto;
+}
+
+.main-section {
+	flex-grow:
 }
 
 h2 {
