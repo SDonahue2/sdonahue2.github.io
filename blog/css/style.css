@@ -121,10 +121,6 @@ h1 {
 	text-align: right;
 }
 
-.aside {
-	flex: 1;
-}
-
 .main-section {
 	display: flex;
 }
