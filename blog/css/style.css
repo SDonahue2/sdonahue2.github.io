@@ -104,8 +104,7 @@ h1 {
 
 .article-image {
 	float: left;
-	padding-right: .05rem;
-	padding-bottom: .05rem;
+	margin: 5%;
 }
 
 .subsection {
