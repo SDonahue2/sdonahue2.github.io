@@ -126,11 +126,12 @@ h1 {
 }
 
 .aside {
-	flex: auto;
+	flex: 1;
+	
 }
 
 .main-section {
-	flex-grow:
+	flex: 1;
 }
 
 h2 {
