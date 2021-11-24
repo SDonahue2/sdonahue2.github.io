@@ -91,12 +91,12 @@ h1 {
 }
 
 .blog {
-	transform: rotate(-2.5deg);
+	transform: rotate(-5deg);
 	text-decoration: solid line-through #33658A .15rem;
 }
 
 .highlight {
-	border-radius: 1rem;
+	border-radius: 1.3rem;
 	background-color: #33658A;
 	color: white;
 }
@@ -119,6 +119,10 @@ h1 {
 
 .attribution {
 	text-align: right;
+}
+
+.aside {
+	flex: 2;
 }
 
 h2 {
