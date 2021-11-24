@@ -91,7 +91,7 @@ h1 {
 }
 
 .blog {
-	text-decoration: wavy underline #33658A .25rem;
+	text-decoration: wavy overline #33658A .25rem;
 }
 
 .highlight {
@@ -121,6 +121,15 @@ h1 {
 .main-section {
 	display: flex;
 	flex: 2;
+}
+
+.subscribebutton {
+	text-align: center;
+	font-size:3.75rem;
+	letter-spacing: .35rem;
+	font-family: Stencil, sans serif;
+	transform: rotate(2.5deg);
+	color: #33658A;
 }
 
 figure {
