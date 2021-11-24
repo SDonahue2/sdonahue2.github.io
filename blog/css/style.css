@@ -125,13 +125,6 @@ h1 {
 	display: flex;
 }
 
-.article {
-	flex: 1;
-}
-
-.aside {
-	flex: 1;
-}
 
 h2 {
 	letter-spacing:.25rem;
