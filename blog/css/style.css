@@ -130,11 +130,12 @@ figure {
 }
 
 article {
-	padding: 2rem;
+	padding: 4rem;
 }
 
 aside {
-	padding: 2rem;
+	padding: 4rem;
+	text-align: center;
 }
 
 
