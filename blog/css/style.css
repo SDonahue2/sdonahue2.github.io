@@ -111,6 +111,7 @@ h1 {
 .subsection {
 	display: grid;
 	grid: repeat(1,auto) / auto-flow;
+	padding: 2rem;
 }
 
 .copyright {
@@ -123,8 +124,16 @@ h1 {
 
 .main-section {
 	display: flex;
+	padding: 2rem;
 }
 
+.aside {
+	padding: 2rem;
+}
+
+figure {
+	margin: 0;
+}
 
 h2 {
 	letter-spacing:.25rem;
