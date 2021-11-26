@@ -110,7 +110,6 @@ h1 {
 .subsection {
 	display: grid;
 	grid: repeat(1,auto) / auto-flow;
-	margin: 10%;
 }
 
 .copyright {
@@ -124,7 +123,6 @@ h1 {
 .main-section {
 	display: flex;
 	flex: 2;
-	margin-top: none;
 }
 
 button {
@@ -191,7 +189,6 @@ nav a:active {
 }
 
 figcaption {
-	background-color: #33658A;
-	color: white;
+	background-color: gold;
 }
 
