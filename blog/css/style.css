@@ -104,7 +104,8 @@ h1 {
 
 .article-image {
 	float: left;
-	margin: 2.5%;
+	margin-right: 1.5%;
+	margin-bottom: 1.5%
 }
 
 .subsection {
@@ -153,7 +154,6 @@ aside {
 h2 {
 	letter-spacing:.25rem;
 	font-size: 1.5rem;
-	margin: .25rem;
 	font-family: Roboto, sans serif;
 	padding-top:3rem;
 	text-align: left 50%;
