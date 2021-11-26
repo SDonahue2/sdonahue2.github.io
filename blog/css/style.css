@@ -127,6 +127,11 @@ h1 {
 	width: 100%;
 }
 
+.subsectionphoto {
+	size:100%;
+	margin: 2.5%
+}
+
 button {
 	text-align: center;
 	font-size:3.75rem;
@@ -192,6 +197,6 @@ nav a:active {
 }
 
 figcaption {
-	background-color: gold;
+	color: #33658A;
 }
 
