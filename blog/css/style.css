@@ -141,6 +141,7 @@ article {
 
 aside {
 	padding: 4rem;
+	padding-top:none;
 	text-align: center;
 	border-left: solid .05rem black;
 }
