@@ -110,6 +110,7 @@ h1 {
 .subsection {
 	display: grid;
 	grid: repeat(1,auto) / auto-flow;
+	width: 100%;
 }
 
 .copyright {
@@ -123,6 +124,7 @@ h1 {
 .main-section {
 	display: flex;
 	flex: 2;
+	width: 100%;
 }
 
 button {
