@@ -136,8 +136,9 @@ button {
 	font-size:3.75rem;
 	letter-spacing: .35rem;
 	font-family: Stencil, sans serif;
-	color: #33658A;
-	padding: 2rem;
+	background-color: #33658A;
+	color: white;
+	padding: 1.5rem;
 	
 }
 
@@ -157,7 +158,6 @@ h2 {
 	letter-spacing:.25rem;
 	font-size: 2rem;
 	font-family: Roboto, sans serif;
-	padding-top:3rem;
 	text-align: start;
 }
 
@@ -172,7 +172,6 @@ nav {
 	border-top: solid .05rem black;
 	border-bottom: solid .05rem black;
 	padding-top: 2rem;
-	padding-bottom:2rem;
 }
 
 nav a {
