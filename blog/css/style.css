@@ -125,11 +125,11 @@ h1 {
 .main-section {
 	display: flex;
 	flex: 2;
-	width: 80%;
+	width: 100%;
 }
 
 .subsectionphoto {
-	margin: 2.5%
+	margin: 2.5%;
 }
 
 .expand {
@@ -144,7 +144,7 @@ button {
 	background-color: #33658A;
 	color: white;
 	padding: 1.5rem;
-	border-radius: 100%;
+	border-radius: 75%;
 	
 }
 
