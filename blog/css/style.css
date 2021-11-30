@@ -125,11 +125,15 @@ h1 {
 .main-section {
 	display: flex;
 	flex: 2;
-	width: 100%;
+	width: 80%;
 }
 
 .subsectionphoto {
 	margin: 2.5%
+}
+
+.expand {
+	font-size: 1rem;
 }
 
 button {
@@ -198,5 +202,6 @@ nav a:active {
 
 figcaption {
 	color: #33658A;
+	background-color: #ffffe0;
 }
 
