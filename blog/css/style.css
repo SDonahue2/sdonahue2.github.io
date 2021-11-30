@@ -133,7 +133,7 @@ h1 {
 }
 
 .expand {
-	font-size: 1rem;
+	font-size: .5rem;
 }
 
 button {
@@ -144,7 +144,7 @@ button {
 	background-color: #33658A;
 	color: white;
 	padding: 1.5rem;
-	border-radius: 75%;
+	border-radius: 1.5rem;
 	
 }
 
